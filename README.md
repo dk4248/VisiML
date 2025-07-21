@@ -193,9 +193,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Author**: Your Name
-- **Email**: your.email@example.com
-- **Project Link**: [https://github.com/your-username/VisiML](https://github.com/your-username/VisiML)
+- **Author**: Dikshant Kukreja
+- **Email**: dikshant22176@iiitd.ac.in
+- **Project Link**: [https://github.com/your-username/VisiML](https://github.com/dk4248/VisiML)
 
 ## 🚧 Roadmap
 
