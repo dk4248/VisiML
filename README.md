@@ -191,11 +191,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built with Streamlit, Matplotlib, and scikit-learn
 - Thanks to all contributors and users
 
-## 📞 Contact
-
-- **Author**: Dikshant Kukreja
-- **Email**: dikshant22176@iiitd.ac.in
-- **Project Link**: [https://github.com/dk4248/VisiML](https://github.com/dk4248/VisiML)
 
 ## 🚧 Roadmap
 
